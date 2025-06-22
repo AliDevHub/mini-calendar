@@ -27,5 +27,5 @@ This project is a mini calendar built with HTML, CSS, and JavaScript. It display
 3. Font sizes adjust automatically on smaller screens for better readability.
 
 #### Notes on the README:
-- **Live Demo**: I’ve included a placeholder GitHub Pages URL (`https://alidevhub.github.io/mini-calendar/`). You’ll need to enable GitHub Pages to make this link work (see Step 4 below).
+- **Live Demo**: I’ve included a placeholder GitHub Pages URL (`https://alidevhub.github.io/mini-calendar/` You’ll need to enable GitHub Pages to make this link work (see Step 4 below).
 
